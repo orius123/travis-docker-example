@@ -6,4 +6,4 @@ The project uses travis environment matrix to use different flavors or versions 
 
 See [travis.yml](https://github.com/orius123/travis-docker-example/blob/master/.travis.yml) for more info.
 
-Current build status: [![Build Status](https://travis-ci.org/orius123/travis-docker-example.svg?branch=master)](https://travis-ci.org/otius123/travis-docker-example)
+Current build status: [![Build Status](https://travis-ci.org/orius123/travis-docker-example.svg?branch=master)](https://travis-ci.org/orius123/travis-docker-example)
